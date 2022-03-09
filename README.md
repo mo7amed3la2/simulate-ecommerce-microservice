@@ -1,6 +1,6 @@
 
 ## About Code
-An Implementation of microservices using Node.js for backend services and MongoDB for database and RabbitMQ as message broker.
+An Implementation of microservices using Node.js for backend services, MongoDB for database and RabbitMQ as a message broker.
 
 ### Services:
   1. Auth Service
