@@ -1,8 +1,5 @@
 
 ## About Code
-An Implementation of microservices using Node.js for backend services, MongoDB for database and RabbitMQ as a message broker.
+An Implementation of load balancing using docker and express Node.js.
 
-### Services:
-  1. Auth Service
-  2. Product Service
-  3. Order Service
+To start run `docker-composer up --build`
